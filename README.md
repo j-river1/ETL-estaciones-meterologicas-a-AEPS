@@ -7,5 +7,7 @@ Este rpositorio están los script para la ETL que se encarga de subir las base d
 
 -Documentos. En esta carpeta esta el archivo configuracion.xls
 
+- las lista de librerias utilizada esta en el archivo yml donde esta guardado el enviroment de conda
+
 
 
