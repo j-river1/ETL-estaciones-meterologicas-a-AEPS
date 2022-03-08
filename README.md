@@ -1,5 +1,5 @@
 # ETL estaciones meterologicas a AEPS
-Este rpositorio están los script para la ETL que se encarga de subir las base de datos a clima a AEPS. Este es bajo el proyecto de Boyaca se adapta al cambio climatico. 
+Este repositorio están los script para la ETL que se encarga de subir las base de datos a clima a AEPS. Este es bajo el proyecto de Boyaca se adapta al cambio climatico. 
 
 ## Carpetas
 
@@ -7,7 +7,7 @@ Este rpositorio están los script para la ETL que se encarga de subir las base d
 
 -Documentos. En esta carpeta esta el archivo configuracion.xls
 
-- las lista de librerias utilizada esta en el archivo yml donde esta guardado el enviroment de conda
+las lista de librerias utilizada esta en el archivo con extensión yml en este arvhibo donde esta guardado el enviroment de conda
 
 
 
